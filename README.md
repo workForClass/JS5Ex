@@ -1,1 +1,1 @@
-# JS5Ex
+# JS5Exercise
